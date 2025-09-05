@@ -7609,10 +7609,11 @@
 
 	"rndwave"
 	{
-		"wave"	"ui/hitsound_menu_note1.wav"
-		"wave"	"ui/hitsound_menu_note2.wav"
-		"wave"	"ui/hitsound_menu_note3.wav"
-		"wave"	"ui/hitsound_menu_note4.wav"			
+		"wave"	"vo/hitsound/etika01.wav"
+		"wave"	"vo/hitsound/etika02.wav"
+		"wave"	"vo/hitsound/etika03.wav"
+		"wave"	"vo/hitsound/etika04.wav"
+		"wave"	"vo/hitsound/etika05.wav"			
 	}
 }
 

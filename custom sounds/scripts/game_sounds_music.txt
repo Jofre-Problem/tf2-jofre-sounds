@@ -290,6 +290,7 @@
 	"rndwave"
 	{
 	 "wave" 			  ")*music/congatest2.wav"
+	 "wave" 			  "vo/misc2/luzdehada.mp3"	 
 	 "wave" 			  ")*music/conga_sketch_167bpm_01-04.wav"	 
 	}
 
