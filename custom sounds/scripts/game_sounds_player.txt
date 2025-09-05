@@ -2921,15 +2921,18 @@
 	"wave"			")player/taunt_table_flip_flipping_table.wav"
 }
 
-"Taunt.DidgeridooStart"
+"Taunt.DidgeridooStart" 
 {
-	"channel"		"CHAN_BODY"
+	"channel"		"CHAN_STATIC"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 
 	"soundlevel"	"SNDLVL_68dB"
-
+	"rndwave"
+	{
 	"wave"			")player/taunt_didgeridoo_start.wav"
+	"wave"			"vo/music2/pvzjazz.mp3"
+	}
 }
 
 "Taunt.DidgeridooStop"
