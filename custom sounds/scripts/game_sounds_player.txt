@@ -2931,7 +2931,15 @@
 	"rndwave"
 	{
 	"wave"			")player/taunt_didgeridoo_start.wav"
-	"wave"			"vo/music2/pvzjazz.mp3"
+	//"wave"			"vo/misc2/pvzjazz.mp3"
+	"wave"			"vo/misc2/xmassong1.mp3"
+	"wave"			"vo/misc2/xmassong2.mp3"
+	"wave"			"vo/misc2/xmassong4.mp3"
+	"wave"			"vo/misc2/xmassong5.mp3"
+	"wave"			"vo/misc2/xmassong3.mp3"
+	"wave"			"vo/misc2/xmassong6.mp3"
+	"wave"			"vo/misc2/xmassong7.mp3"
+	"wave"			"vo/misc2/xmassong8.mp3"		
 	}
 }
 

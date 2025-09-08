@@ -6586,16 +6586,16 @@
 {
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_98dB"
-	"volume"	"0.15"
-	"wave"		")weapons/doom_sniper_rifle.wav"
+	"volume"	"0.75"
+	"wave"		")vo/weapons/sniper_military_fire_1.wav"
 }
 
 "Weapon_ProSniperRifle.SingleCrit"
 {
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_98dB"
-	"volume"	"0.15"
-	"wave"		")weapons/doom_sniper_rifle_crit.wav"
+	"volume"	"0.75"
+	"wave"		")vo/weapons/sniper_military_fire_1_incendiary.wav"
 }
 
 "Weapon_UrbanProfessional.Single"
