@@ -847,8 +847,13 @@
  	"volume"  ".65"
  	"pitch"  "100"
  	"soundlevel"   "SNDLVL_NORM"
+		"rndwave"
+	{	
 	"wave"  "#misc/killstreak.wav"
-}
+	"wave"  "vo/bacon/killstreak.wav"
+	"wave"  "vo/bacon/killstreak-psycho.wav"
+}}
+
 
 "Game.PenetrationKill"
 {

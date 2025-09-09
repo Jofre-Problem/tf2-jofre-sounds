@@ -329,7 +329,12 @@
 	 "channel" 			"CHAN_STATIC"
 	 "soundlevel" 			"SNDLVL_70dB"
 	 "volume"		    "1.0"
-	 "wave" 			  ")*vo/music/cossack_sandvich.wav"
+	"rndwave"
+	{	 
+	 "wave" 			  "vo/music/cossack_sandvich.wav"
+	"wave" 			  "vo/music/cossack_sandvich_2.wav"
+	"wave" 			  "vo/music/cossack_sandvich_3.wav"
+	 }
 }
 "music.aerobic_loop"
 {

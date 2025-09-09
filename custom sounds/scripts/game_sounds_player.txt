@@ -692,7 +692,11 @@
 	"channel"	"CHAN_STATIC"
 	"volume"	".75"
 	"soundlevel"  	"SNDLVL_75dB"
+	"rndwave"
+	{		
 	"wave"		"misc/freeze_cam.wav"
+		"wave"		"vo/bacon/freeze_cam.wav"
+	}
 }
 
 "TFPlayer.ReCharged"
@@ -1093,9 +1097,11 @@
 	"channel"	"CHAN_STATIC"
 	"volume"	"1"
 	"soundlevel"  "SNDLVL_95dB"
-
+	"rndwave"
+	{	
 	"wave"		")player\brutal_legend_taunt.wav"
-}
+	"wave"		"vo/bacon\brutal_legend_taunt.wav"
+}}
 
 "Taunt.WormsHHG"
 {
