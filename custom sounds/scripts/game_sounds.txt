@@ -3564,7 +3564,13 @@
 	"volume"		"VOL_NORM"
 	"soundlevel"  	"SNDLVL_NONE"
 	"pitch"			"PITCH_NORM"
-	"wave"			"ui/demosupport_start.wav"
+	"rndwave"	
+	{	
+	//"wave"			"ui/demosupport_start.wav"
+	"wave"			"vo/music/demosupport_start.wav"
+	"wave"			"vo/misc2/peacemaker_season2.wav"	
+		"wave"			"vo/misc2/dc.wav"
+	}
 }
 
 "DemoSupport.EndRecording"

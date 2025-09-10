@@ -341,5 +341,9 @@
 	 "channel" 			"CHAN_STATIC"
 	 "soundlevel" 			"SNDLVL_75dB"
 	 "volume"		    "1.0"
+	 	"rndwave"
+	{	 
 	 "wave" 			  ")*music/mannrobics.wav"
+	  "wave" 			  "vo/music/mannrobics.wav"
+	  }
 }

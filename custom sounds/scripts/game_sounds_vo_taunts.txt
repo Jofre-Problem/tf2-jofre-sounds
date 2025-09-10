@@ -3770,7 +3770,7 @@
 	"rndwave"
 	{
 		"wave"			"vo/taunts/sniper/sniper_taunt_kill_18.mp3"
-		"wave"			"vo/taunts/sniper/sniper_taunt_kill_19.mp3"
+		"wave"			"vo/taunts/sniper/sniper_taunt_kill_19.mp3" //
 	}
 }
 "engy_taunt_killertime_1_button"
