@@ -70,6 +70,9 @@
 		"wave"		"items\taunts\killer_solo\killer_solo_03.mp3"
 		"wave"		"items\taunts\killer_solo\killer_solo_04.mp3"
 		"wave"		"items\taunts\killer_solo\killer_solo_05.mp3"
+		"wave"		"items\taunts\killer_solo\killer_solo_06.mp3"
+		"wave"		"items\taunts\killer_solo\killer_solo_07.mp3"
+		"wave"		"items\taunts\killer_solo\killer_solo_08.mp3"				
 	}
 }
 
