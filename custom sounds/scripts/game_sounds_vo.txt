@@ -14765,15 +14765,17 @@
 	"wave"			"vo/sniper_StandOnThePoint02.mp3"
 }
 
-"Sniper.Taunts01"
+"Sniper.Taunts01"	// killer joke stupid shit fuck you
 {
 	"channel"		"CHAN_VOICE"
 	"volume"		"0.620"
 	"pitch"			"PITCH_NORM"
 
 	"soundlevel"	"SNDLVL_95dB"
-
-	"wave"			"vo/taunts/sniper_Taunts01.mp3"
+	"rndwave"
+	{	
+	"wave"	"vo/music/cumbia1.mp3"
+	}
 }
 
 "Sniper.Taunts02"

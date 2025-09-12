@@ -1205,7 +1205,7 @@
 	"channel"	"CHAN_STATIC"
 	"volume"	".50"
 	"soundlevel"  	"SNDLVL_75dB"		
-	"wave"	"player/taunt_foot_stomp.wav"
+	"wave"	"vo/music/cumbia1.mp3"
 }
 
 "Taunt.Sniper02FootSlide"

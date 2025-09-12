@@ -264,7 +264,10 @@
 	"channel"		"CHAN_STATIC"
 	"soundlevel"		"SNDLVL_90dB"
 	"volume"		"1.0"
-	"wave"		")*music/fortress_reel_loop.wav"
+	"rndwave"
+	{	
+	"wave"	"vo/music/cumbia1.mp3"
+	}
 }
 "music.fortress_reel_intro2"
 {
