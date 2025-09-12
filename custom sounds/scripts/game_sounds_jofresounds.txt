@@ -1,0 +1,12 @@
+"taunt_killer_joke_rimshot"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_68dB"
+	"rndwave"
+	{
+	"wave"	"vo/music/cumbia1.mp3"
+	}
+}
