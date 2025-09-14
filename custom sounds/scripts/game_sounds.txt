@@ -91,6 +91,7 @@
 	"soundlevel"	"SNDLVL_NONE"
 	"pitch"		"PITCH_NORM"
 	"wave"		"items/gunpickup2.wav"
+		"wave"		"vo/misc2/cake.mp3"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -727,11 +728,11 @@
 	"soundlevel"	"SNDLVL_NONE"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
-	{"wave"			"vo/ambient/siren.wav"
-	"wave"			"vo/ambient/siren2.wav"
-	"wave"			"vo/ambient/siren3.wav"
-	//"wave"			"vo/ambient/siren_1.wav"
-	//"wave"			"vo/ambient/siren_2.wav"
+	{//"wave"			"vo/ambient/siren.wav"
+	//"wave"			"vo/ambient/siren2.wav"
+	//"wave"			"vo/ambient/siren3.wav"
+	"wave"			"vo/ambient/siren_1.wav"
+	"wave"			"vo/ambient/siren_2.wav"
 	}
 }
 
