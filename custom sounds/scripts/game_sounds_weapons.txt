@@ -3631,7 +3631,7 @@
 "Weapon_Bison.Single"
 {
 	"channel"	"CHAN_WEAPON"
-	"volume"	"0.15"
+	"volume"	"0.1"
 	"soundlevel"	"SNDLVL_NORM"
 	"rndwave"
 	{
@@ -3643,7 +3643,7 @@
 "Weapon_Bison.SingleCrit"
 {
 	"channel"	"CHAN_WEAPON"
-	"volume"	"0.15"
+	"volume"	"1"
 	"soundlevel"	"SNDLVL_NORM"
 	"wave"	")weapons\bison_main_shot.wav"
 }

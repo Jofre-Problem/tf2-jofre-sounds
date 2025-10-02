@@ -992,7 +992,21 @@
 	"volume"		"1"
 	"pitch"		"100"
 	"soundlevel"  	"SNDLVL_73dB"
-	"wave"		"misc/hologram_move.wav"
+	"rndwave"
+	{		
+	"wave"		"vo/misc2/radio_magica_1.wav"
+	"wave"		"vo/misc2/radio_magica_2.wav"
+		"wave"		"vo/misc2/radio_magica_3.wav"
+			"wave"		"vo/misc2/radio_magica_4.wav"
+	"wave"		"vo/misc2/radio_magica_5.wav"
+	"wave"		"vo/misc2/radio_magica_9.wav"
+	"wave"		"vo/misc2/radio_magica_7.wav"
+	"wave"		"vo/misc2/radio_magica_8.wav"
+	"wave"		"vo/misc2/radio_magica_10.wav"
+	"wave"		"vo/misc2/radio_magica_11.wav"
+	"wave"		"vo/misc2/radio_magica_12.wav"		
+	"wave"		"vo/misc2/radio_magica_xmas_1.wav"								
+	}
 }
 
 "Hologram.Stop"
