@@ -654,7 +654,7 @@
 	"volume"	"1"
 	"rndwave"
 	{
-	"wave"		"weapons/draw_machete_sniper.wav"
+	"wave"		"vo/tigertest.wav"
 	//"wave"		"vo/l4d2/gambler/meleeweapons01.wav"
 	//"wave"		"vo/l4d2/gambler/meleeweapons02.wav"
 	//"wave"		"vo/l4d2/mechanic/meleeweapons01.wav"
@@ -3069,8 +3069,8 @@
 {
 	"channel"	"CHAN_AUTO"
 	"soundlevel"	"SNDLVL_74dB"
-	"volume"	".5"
-	"wave"		"weapons/draw_secondary.wav"
+	"volume"	"1"
+	"wave"		"vo/snaketest.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -3211,10 +3211,10 @@
 {
 	"channel"	"CHAN_AUTO"
 	"soundlevel"	"SNDLVL_74dB"
-	"volume"	".5"
+	"volume"	"1"
 	"rndwave"
 	{	
-	"wave"		"misc/null.wav"
+	"wave"		"vo/cranetest.wav"
 	}
 }
 
