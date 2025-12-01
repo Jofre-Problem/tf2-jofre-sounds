@@ -852,8 +852,8 @@
 		"rndwave"
 	{	
 	"wave"  "#misc/killstreak.wav"
-	"wave"  "vo/bacon/killstreak.wav"
-	"wave"  "vo/bacon/killstreak-psycho.wav"
+	//"wave"  "vo/bacon/killstreak.wav"
+	//"wave"  "vo/bacon/killstreak-psycho.wav"
 }}
 
 
